@@ -1,1 +1,1 @@
-# This GitHub repository is for practice of developer branch
+# This GitHub repository is for practice
